@@ -6,7 +6,7 @@
 
 ### 2026 年电子设计竞赛 H 题省一等奖
 
-[查看项目：2026-H-First-Prize](https://github.com/SCUT-Electronics-Competition/2026-H-First-Prize)
+[查看项目：2026-H-First-Prize](https://github.com/Rolldish/2026-H-First-Prize)
 
 ---
 
